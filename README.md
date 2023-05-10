@@ -26,20 +26,12 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
 
 <br/>  
 
 
-- 📫 How to reach me: Asmaa.Kh.Gomaa@gmail.com 
+#- 📫 How to reach me: Asmaa.Kh.Gomaa@gmail.com 
 
 
 ## Connect with me  
