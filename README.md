@@ -1,17 +1,10 @@
-<br/>
 ### Hi,I'm Asmaa  
-<div align="center">
-<img src="https://drive.google.com/file/d/189XsxA04hpv2gq_AuOTdHzlG1eLhuO5T/view?usp=sharing" align="center" height="200" width="600" />
-</div>  
-  
 
 - ### <div align="center">A junior Android developer with a keen interest in mobile app development. Less than a year of experience in the Android development industry. Learning is the most important stage of all so I strive to learn and gain experience 👨‍💻 </div>  
-  
 
-<br/>  
+
 
 ## Languages and Tools 
-
  
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -21,11 +14,8 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-<br/> 
-#📫 How to reach me: Asmaa.Kh.Gomaa@gmail.com 
 
-
-<br/>  
+# 📫 How to reach me: Asmaa.Kh.Gomaa@gmail.com 
 
 
 ## Connect with me  
@@ -48,14 +38,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
+## Recent Blog Posts 
 
   
 
