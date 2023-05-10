@@ -1,7 +1,6 @@
 ### Hi,I'm Asmaa  
 
-- ### <div align="center">A junior Android developer with a keen interest in mobile app development. Less than a year of experience in the Android development industry. Learning is the most important stage of all so I strive to learn and gain experience 👨‍💻 </div>  
-
+- ##### <div align="start">A junior Android developer with a keen interest in mobile app development. Less than a year of experience in the Android development industry. Learning is the most important stage of all so I strive to learn and gain experience 👨‍💻 </div>  
 
 
 ## Languages and Tools 
