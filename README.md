@@ -1,5 +1,4 @@
 
-
 ### Hi,I'm Asmaa  
 <div align="center">
 <img src="https://drive.google.com/file/d/189XsxA04hpv2gq_AuOTdHzlG1eLhuO5T/view?usp=sharing" align="center" height="200" width="600" />
@@ -12,12 +11,9 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## Languages and Tools 
 
-
-
-### My Skills  
+ 
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
@@ -26,12 +22,11 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td></tr></table>  
 
 <br/>  
 
 
-#- 📫 How to reach me: Asmaa.Kh.Gomaa@gmail.com 
+#📫 How to reach me: Asmaa.Kh.Gomaa@gmail.com 
 
 
 ## Connect with me  
