@@ -39,6 +39,9 @@
 <br/>  
 
 
+- 📫 How to reach me: Asmaa.Kh.Gomaa@gmail.com 
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/asmaa-khaled-633335243/" target="_blank">
