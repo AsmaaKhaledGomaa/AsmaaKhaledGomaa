@@ -1,13 +1,12 @@
-## Hi,I'm Asmaa  
+## Hi, I'm Asmaa  
 
 </p>
+<img src="https://github.com/AsmaaKhaledGomaa/AsmaaKhaledGomaa/assets/117874933/137a193d-e6b3-4371-8607-a0aa8307e41d.png" alt="AsmaaKhaledGomaa/AsmaaKhaledGomaa/assets/117874933/137a193d-e6b3-4371-8607-a0aa8307e41d" width="1490"/>
 
-![Git](https://github.com/AsmaaKhaledGomaa/AsmaaKhaledGomaa/assets/117874933/137a193d-e6b3-4371-8607-a0aa8307e41d)(https://github.com/AsmaaKhaledGoma
+<br/>  
+<br/> 
 
-</p>
-
-
-#### <div align="start">A junior Android developer with a keen interest in mobile app development. Less than a year of experience in the Android development industry. Learning is the most important stage of all so I strive to learn and gain experience 👨‍💻 </div>  
+#### <div align="start">Junior Android developer with a keen interest in mobile app development. Less than a year of experience in the Android development industry. Learning is the most important stage of all so I strive to learn and gain experience 👨‍💻 </div>  
 
 
 <br/>  
@@ -35,7 +34,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="start">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/asmaa-khaled-633335243/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
