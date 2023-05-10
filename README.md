@@ -3,11 +3,12 @@
 ##### <div align="start">A junior Android developer with a keen interest in mobile app development. Less than a year of experience in the Android development industry. Learning is the most important stage of all so I strive to learn and gain experience 👨‍💻 </div>  
 
 
+<br/>  
 
 
 ## Languages and Tools 
  
-<div align="center">  
+<div align="start">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
@@ -16,10 +17,14 @@
 </div>
 
 
+<br/>  
+
 
 
 ## 📫 How to reach me: Asmaa.Kh.Gomaa@gmail.com 
 
+
+<br/>  
 
 
 
@@ -33,3 +38,4 @@
 </a>  
 </div>  
   
+<br/>  
