@@ -1,6 +1,13 @@
 ## Hi,I'm Asmaa  
 
-##### <div align="start">A junior Android developer with a keen interest in mobile app development. Less than a year of experience in the Android development industry. Learning is the most important stage of all so I strive to learn and gain experience 👨‍💻 </div>  
+</p>
+
+![Git](https://github.com/AsmaaKhaledGomaa/AsmaaKhaledGomaa/assets/117874933/137a193d-e6b3-4371-8607-a0aa8307e41d)(https://github.com/AsmaaKhaledGoma
+
+</p>
+
+
+#### <div align="start">A junior Android developer with a keen interest in mobile app development. Less than a year of experience in the Android development industry. Learning is the most important stage of all so I strive to learn and gain experience 👨‍💻 </div>  
 
 
 <br/>  
