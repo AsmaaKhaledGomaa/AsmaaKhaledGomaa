@@ -2,7 +2,7 @@
 
 ### Hi,I'm Asmaa  
 <div align="center">
-<img src="https://drive.google.com/file/d/189XsxA04hpv2gq_AuOTdHzlG1eLhuO5T/view?usp=sharing" align="center" height="400" width="600" />
+<img src="https://drive.google.com/file/d/189XsxA04hpv2gq_AuOTdHzlG1eLhuO5T/view?usp=sharing" align="center" height="200" width="600" />
 </div>  
   
 
